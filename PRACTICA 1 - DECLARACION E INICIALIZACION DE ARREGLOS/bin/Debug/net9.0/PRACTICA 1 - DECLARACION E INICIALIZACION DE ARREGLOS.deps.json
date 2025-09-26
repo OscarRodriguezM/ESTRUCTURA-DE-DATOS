@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "PRACTICA 1 - DECLARACION E INICIALIZACION DE ARREGLOS/1.0.0": {
+        "runtime": {
+          "PRACTICA 1 - DECLARACION E INICIALIZACION DE ARREGLOS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PRACTICA 1 - DECLARACION E INICIALIZACION DE ARREGLOS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

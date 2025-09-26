@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "PRACTICA 2 - OPERACIONES CON ARREGLOS/1.0.0": {
+        "runtime": {
+          "PRACTICA 2 - OPERACIONES CON ARREGLOS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PRACTICA 2 - OPERACIONES CON ARREGLOS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
