@@ -93,16 +93,16 @@ public class battleship {
                             if (columna + tamano <= 10) {
                                 posicionValida = 1;
                             } else {
-                                System.out.println("⚠️ NO CABE EL BARCO EN HORIZONTAL EN ESA POSICION. INTENTE DE NUEVO.");
+                                System.out.println("NO CABE EL BARCO EN HORIZONTAL EN ESA POSICION. INTENTE DE NUEVO.");
                             }
                         } else if (orientacion == 'V') {
                             if (fila + tamano <= 10) {
                                 posicionValida = 1;
                             } else {
-                                System.out.println("⚠️ NO CABE EL BARCO EN VERTICAL EN ESA POSICION. INTENTE DE NUEVO.");
+                                System.out.println("NO CABE EL BARCO EN VERTICAL EN ESA POSICION. INTENTE DE NUEVO.");
                             }
                         } else {
-                            System.out.println("⚠️ ORIENTACION INVALIDA. USE H PARA HORIZONTAL O V PARA VERTICAL. INTENTE DE NUEVO.");
+                            System.out.println("ORIENTACION INVALIDA. USE H PARA HORIZONTAL O V PARA VERTICAL. INTENTE DE NUEVO.");
                         }
                     }
 
