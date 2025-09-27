@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LENOVO E14\\Desktop\\ESTRUCTURA DE DATOS\\PRACTICA 1 - DECLARACION E INICIALIZACION DE ARREGLOS\\PRACTICA 1 - DECLARACION E INICIALIZACION DE ARREGLOS.csproj",
+      "projectUniqueName": "C:\\Users\\LENOVO E14\\Desktop\\ESTRUCTURA DE DATOSS\\Estructa-de-datos\\ESTRUCTURA-DE-DATOS\\PRACTICA 1 - DECLARACION E INICIALIZACION DE ARREGLOS\\PRACTICA 1 - DECLARACION E INICIALIZACION DE ARREGLOS.csproj",
       "projectName": "PRACTICA 1 - DECLARACION E INICIALIZACION DE ARREGLOS",
-      "projectPath": "C:\\Users\\LENOVO E14\\Desktop\\ESTRUCTURA DE DATOS\\PRACTICA 1 - DECLARACION E INICIALIZACION DE ARREGLOS\\PRACTICA 1 - DECLARACION E INICIALIZACION DE ARREGLOS.csproj",
+      "projectPath": "C:\\Users\\LENOVO E14\\Desktop\\ESTRUCTURA DE DATOSS\\Estructa-de-datos\\ESTRUCTURA-DE-DATOS\\PRACTICA 1 - DECLARACION E INICIALIZACION DE ARREGLOS\\PRACTICA 1 - DECLARACION E INICIALIZACION DE ARREGLOS.csproj",
       "packagesPath": "C:\\Users\\LENOVO E14\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LENOVO E14\\Desktop\\ESTRUCTURA DE DATOS\\PRACTICA 1 - DECLARACION E INICIALIZACION DE ARREGLOS\\obj\\",
+      "outputPath": "C:\\Users\\LENOVO E14\\Desktop\\ESTRUCTURA DE DATOSS\\Estructa-de-datos\\ESTRUCTURA-DE-DATOS\\PRACTICA 1 - DECLARACION E INICIALIZACION DE ARREGLOS\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
