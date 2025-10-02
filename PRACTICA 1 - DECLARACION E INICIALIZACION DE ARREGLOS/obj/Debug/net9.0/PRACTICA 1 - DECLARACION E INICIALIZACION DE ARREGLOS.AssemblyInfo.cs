@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PRACTICA 1 - DECLARACION E INICIALIZACION DE ARREGLOS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c9b8a44c962bf4aa9cc21e08a210375096e87893")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d336173438e149ca777fa297a1aff7f90b123510")]
 [assembly: System.Reflection.AssemblyProductAttribute("PRACTICA 1 - DECLARACION E INICIALIZACION DE ARREGLOS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PRACTICA 1 - DECLARACION E INICIALIZACION DE ARREGLOS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
