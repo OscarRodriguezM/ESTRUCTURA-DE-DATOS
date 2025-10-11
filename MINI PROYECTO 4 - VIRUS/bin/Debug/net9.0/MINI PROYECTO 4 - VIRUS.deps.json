@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "MINI PROYECTO 4 - VIRUS/1.0.0": {
+        "runtime": {
+          "MINI PROYECTO 4 - VIRUS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MINI PROYECTO 4 - VIRUS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
