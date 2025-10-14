@@ -52,7 +52,7 @@ class Program
                         Console.ResetColor();
                         break;
                     default:
-                        Console.Write("□ ");
+                        Console.Write("  ");
                         break;
                 }
 
@@ -166,7 +166,7 @@ class Program
                             Console.ResetColor();
                             break;
                         default:
-                            Console.Write("□ ");
+                            Console.Write("  ");
                             break;
                     }
 
