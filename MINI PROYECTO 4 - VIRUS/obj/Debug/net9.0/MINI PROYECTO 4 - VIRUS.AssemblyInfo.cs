@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MINI PROYECTO 4 - VIRUS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1ef30152c28abdadc145478e04e135c8762ce7cf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df48781f468aadadd09373ab30c4840d1adde570")]
 [assembly: System.Reflection.AssemblyProductAttribute("MINI PROYECTO 4 - VIRUS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MINI PROYECTO 4 - VIRUS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
