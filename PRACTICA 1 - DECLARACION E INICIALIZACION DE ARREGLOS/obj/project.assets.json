@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "/Users/laptop/.nuget/packages/": {}
+    "C:\\Users\\Laptop\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/laptop/Desktop/ESTRUCTURA-DE-DATOS/PRACTICA 1 - DECLARACION E INICIALIZACION DE ARREGLOS/PRACTICA 1 - DECLARACION E INICIALIZACION DE ARREGLOS.csproj",
+      "projectUniqueName": "C:\\Users\\Laptop\\Desktop\\ESTRUCTURA-DE-DATOS\\PRACTICA 1 - DECLARACION E INICIALIZACION DE ARREGLOS\\PRACTICA 1 - DECLARACION E INICIALIZACION DE ARREGLOS.csproj",
       "projectName": "PRACTICA 1 - DECLARACION E INICIALIZACION DE ARREGLOS",
-      "projectPath": "/Users/laptop/Desktop/ESTRUCTURA-DE-DATOS/PRACTICA 1 - DECLARACION E INICIALIZACION DE ARREGLOS/PRACTICA 1 - DECLARACION E INICIALIZACION DE ARREGLOS.csproj",
-      "packagesPath": "/Users/laptop/.nuget/packages/",
-      "outputPath": "/Users/laptop/Desktop/ESTRUCTURA-DE-DATOS/PRACTICA 1 - DECLARACION E INICIALIZACION DE ARREGLOS/obj/",
+      "projectPath": "C:\\Users\\Laptop\\Desktop\\ESTRUCTURA-DE-DATOS\\PRACTICA 1 - DECLARACION E INICIALIZACION DE ARREGLOS\\PRACTICA 1 - DECLARACION E INICIALIZACION DE ARREGLOS.csproj",
+      "packagesPath": "C:\\Users\\Laptop\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Laptop\\Desktop\\ESTRUCTURA-DE-DATOS\\PRACTICA 1 - DECLARACION E INICIALIZACION DE ARREGLOS\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/laptop/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Laptop\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -44,7 +44,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "10.0.100"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net9.0": {
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.100-rc.2.25502.107/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

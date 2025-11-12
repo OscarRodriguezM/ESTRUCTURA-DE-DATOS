@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>SUDOKU DEL TERROR</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div id="login-section">
+        <h1>SUDOKU DEL TERROR</h1>
+        <p>INGRESE SU NOMBRE PARA EMPEZAR.</p>
+        
+        <label for="username">NOMBRE:</label>
+        <input type="text" id="username" />
+        <button id="start-btn" onclick="startGame()">JUGAR</button>
+    </div>
+
+    <div id="game-section" style="display: none;">
+        
+        <div id="hud">
+            <p>JUGADOR: <span id="player-name">-</span></p>
+            <p>DIFICULTAD: <span id="difficulty-name">MUY FACIL</span></p>
+            <p>NIVEL: <span id="current-puzzle">1</span> de 5</p>
+            <p>VIDAS: <span id="lives">3</span> / <span id="max-lives">3</span></p>
+            <p>TIEMPO: <span id="timer">00:00</span></p>
+        </div>
+        
+        <hr> <div id="sudoku-board">
+            </div>
+
+        <br> <div id="controls">
+             <button onclick="returnToMenu()">SALIR</button>
+        </div>
+    </div>
+
+    <script src="sudoku.js"></script>
+</body>
+</html>

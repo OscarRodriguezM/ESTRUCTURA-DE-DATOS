@@ -1,0 +1,77 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #FFFFFF;
+    color: #000000;
+    margin: 10px;
+}
+
+#login-section, #game-section {
+    border: 1px solid #CCCCCC;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+h1 {
+    color: #333;
+    font-size: 24px;
+}
+
+
+input[type="text"] {
+    border: 1px solid #999;
+    padding: 5px;
+}
+
+#hud {
+    background-color: #f4f4f4;
+    border: 1px solid #ddd;
+    padding: 10px;
+}
+
+#hud p {
+    margin: 5px 0;
+    font-weight: bold;
+}
+
+#sudoku-board {
+    display: inline-grid;
+    grid-template-columns: repeat(9, 40px);
+    grid-template-rows: repeat(9, 40px);
+    border: 2px solid #000000;
+    margin-top: 15px;
+}
+
+.cell {
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    font-size: 20px;
+    border: 1px solid #999;
+    color: #000000;
+
+}
+
+
+.cell:nth-child(3n) { border-right: 2px solid #000000; }
+#sudoku-board .row-border-bottom { border-bottom: 2px solid #000000; }
+
+
+
+.given { 
+    background-color: #E0E0E0;
+    font-weight: bold; 
+    color: #333; 
+}
+
+
+.correct { 
+    background-color: #dff0d8; 
+    color: #3c763d;
+}
+
+
+.incorrect { 
+    background-color: #f2dede; 
+    color: #a94442;
+}
